@@ -1,4 +1,4 @@
-# Csv to Json convertor
+# Csv to Json converter
 
 You should have node.js installed
 
