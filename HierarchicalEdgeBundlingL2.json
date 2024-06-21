@@ -1,0 +1,203 @@
+[
+  {
+    "name": "root.Lifecycle.Drug & Device Development",
+    "size": 1201,
+    "linkTo": [
+      "root.Operational.Facility Management",
+      "root.GxP.Document & Training Management",
+      "root.Operational.Production & Disposition",
+      "root.GxP.Deviation & Change Management",
+      "root.Operational.Qualification & Validation",
+      "root.Lifecycle.Clinical Programs",
+      "root.Lifecycle.Regulatory Management",
+      "root.Operational.Warehousing & Distribution",
+      "root.Operational.Supplier Management",
+      "root.GxP.Product Quality Management",
+      "root.Lifecycle.Non-Clinical Programs",
+      "root.GxP.Quality Governance"
+    ]
+  },
+  {
+    "name": "root.GxP.Quality Risk Management",
+    "size": 201,
+    "linkTo": [
+      "root.Lifecycle.Non-Clinical Programs",
+      "root.Lifecycle.Clinical Programs"
+    ]
+  },
+  {
+    "name": "root.Operational.Production & Disposition",
+    "size": 1201,
+    "linkTo": [
+      "root.GxP.Product Quality Management",
+      "root.Operational.Qualification & Validation",
+      "root.Operational.Facility Management",
+      "root.GxP.Document & Training Management",
+      "root.GxP.Deviation & Change Management",
+      "root.Operational.Warehousing & Distribution",
+      "root.GxP.Quality Risk Management",
+      "root.Lifecycle.Drug & Device Development",
+      "root.GxP.Quality Governance",
+      "root.Lifecycle.Regulatory Management",
+      "root.Lifecycle.Clinical Programs",
+      "root.Operational.Supplier Management"
+    ]
+  },
+  {
+    "name": "root.Lifecycle.Clinical Programs",
+    "size": 1101,
+    "linkTo": [
+      "root.Operational.Qualification & Validation",
+      "root.Operational.Facility Management",
+      "root.Operational.Production & Disposition",
+      "root.GxP.Document & Training Management",
+      "root.GxP.Deviation & Change Management",
+      "root.Lifecycle.Drug & Device Development",
+      "root.Operational.Warehousing & Distribution",
+      "root.GxP.Quality Governance",
+      "root.Lifecycle.Regulatory Management",
+      "root.GxP.Product Quality Management",
+      "root.GxP.Quality Risk Management"
+    ]
+  },
+  {
+    "name": "root.GxP.Product Quality Management",
+    "size": 501,
+    "linkTo": [
+      "root.Operational.Production & Disposition",
+      "root.Operational.Qualification & Validation",
+      "root.Operational.Facility Management",
+      "root.Lifecycle.Regulatory Management",
+      "root.GxP.Deviation & Change Management"
+    ]
+  },
+  {
+    "name": "root.GxP.Deviation & Change Management",
+    "size": 901,
+    "linkTo": [
+      "root.Operational.Supplier Management",
+      "root.GxP.Document & Training Management",
+      "root.Lifecycle.Drug & Device Development",
+      "root.Lifecycle.Regulatory Management",
+      "root.Operational.Qualification & Validation",
+      "root.Operational.Warehousing & Distribution",
+      "root.Lifecycle.Clinical Programs",
+      "root.Operational.Facility Management",
+      "root.Operational.Production & Disposition"
+    ]
+  },
+  {
+    "name": "root.Operational.Supplier Management",
+    "size": 701,
+    "linkTo": [
+      "root.Operational.Production & Disposition",
+      "root.Operational.Warehousing & Distribution",
+      "root.Operational.Qualification & Validation",
+      "root.GxP.Deviation & Change Management",
+      "root.GxP.Document & Training Management",
+      "root.Lifecycle.Drug & Device Development",
+      "root.GxP.Quality Governance"
+    ]
+  },
+  {
+    "name": "root.GxP.Document & Training Management",
+    "size": 801,
+    "linkTo": [
+      "root.Operational.Production & Disposition",
+      "root.Operational.Facility Management",
+      "root.Lifecycle.Regulatory Management",
+      "root.GxP.Deviation & Change Management",
+      "root.Operational.Qualification & Validation",
+      "root.Lifecycle.Drug & Device Development",
+      "root.Operational.Supplier Management",
+      "root.Operational.Warehousing & Distribution"
+    ]
+  },
+  {
+    "name": "root.GxP.Quality Governance",
+    "size": 701,
+    "linkTo": [
+      "root.GxP.Product Quality Management",
+      "root.GxP.Document & Training Management",
+      "root.Lifecycle.Clinical Programs",
+      "root.GxP.Deviation & Change Management",
+      "root.GxP.Quality Risk Management",
+      "root.Operational.Facility Management",
+      "root.Operational.Qualification & Validation"
+    ]
+  },
+  {
+    "name": "root.Lifecycle.Regulatory Management",
+    "size": 1001,
+    "linkTo": [
+      "root.GxP.Document & Training Management",
+      "root.GxP.Deviation & Change Management",
+      "root.Lifecycle.Clinical Programs",
+      "root.Lifecycle.Drug & Device Development",
+      "root.Operational.Warehousing & Distribution",
+      "root.Operational.Production & Disposition",
+      "root.Operational.Facility Management",
+      "root.Operational.Qualification & Validation",
+      "root.GxP.Quality Risk Management",
+      "root.GxP.Product Quality Management"
+    ]
+  },
+  {
+    "name": "root.Operational.Facility Management",
+    "size": 801,
+    "linkTo": [
+      "root.GxP.Document & Training Management",
+      "root.GxP.Quality Risk Management",
+      "root.Operational.Production & Disposition",
+      "root.Operational.Qualification & Validation",
+      "root.Lifecycle.Drug & Device Development",
+      "root.Lifecycle.Regulatory Management",
+      "root.GxP.Product Quality Management",
+      "root.Operational.Warehousing & Distribution"
+    ]
+  },
+  {
+    "name": "root.Operational.Warehousing & Distribution",
+    "size": 1001,
+    "linkTo": [
+      "root.GxP.Document & Training Management",
+      "root.GxP.Quality Governance",
+      "root.Operational.Production & Disposition",
+      "root.GxP.Deviation & Change Management",
+      "root.GxP.Product Quality Management",
+      "root.Operational.Supplier Management",
+      "root.Operational.Qualification & Validation",
+      "root.Lifecycle.Drug & Device Development",
+      "root.Lifecycle.Clinical Programs",
+      "root.GxP.Quality Risk Management"
+    ]
+  },
+  {
+    "name": "root.Operational.Qualification & Validation",
+    "size": 901,
+    "linkTo": [
+      "root.GxP.Deviation & Change Management",
+      "root.Lifecycle.Drug & Device Development",
+      "root.Operational.Production & Disposition",
+      "root.Operational.Warehousing & Distribution",
+      "root.GxP.Document & Training Management",
+      "root.Operational.Supplier Management",
+      "root.Operational.Facility Management",
+      "root.Lifecycle.Non-Clinical Programs",
+      "root.GxP.Quality Governance"
+    ]
+  },
+  {
+    "name": "root.Lifecycle.Non-Clinical Programs",
+    "size": 201,
+    "linkTo": [
+      "root.Lifecycle.Drug & Device Development",
+      "root.Lifecycle.Clinical Programs"
+    ]
+  },
+  {
+    "name": "root.undefined.undefined",
+    "size": 1,
+    "linkTo": []
+  }
+]

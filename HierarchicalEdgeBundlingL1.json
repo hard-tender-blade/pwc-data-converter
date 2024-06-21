@@ -1,0 +1,31 @@
+[
+  {
+    "name": "root.Lifecycle",
+    "size": 201,
+    "linkTo": [
+      "root.Operational",
+      "root.GxP"
+    ]
+  },
+  {
+    "name": "root.GxP",
+    "size": 201,
+    "linkTo": [
+      "root.Lifecycle",
+      "root.Operational"
+    ]
+  },
+  {
+    "name": "root.Operational",
+    "size": 201,
+    "linkTo": [
+      "root.GxP",
+      "root.Lifecycle"
+    ]
+  },
+  {
+    "name": "root.undefined",
+    "size": 1,
+    "linkTo": []
+  }
+]
